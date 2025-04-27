@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="01.CObj">
+      <UniqueIdentifier>{18d2860c-dab9-48ee-9ff5-7bb849277b8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.CCharacter">
+      <UniqueIdentifier>{fbce4d84-cc87-49c8-8861-25aec9c4ac9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.CCharacter\CPlayer">
+      <UniqueIdentifier>{82d63c85-63f6-4744-9930-6fdd735c52d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.CCharacter\CMonster">
+      <UniqueIdentifier>{418b7b5d-6f15-43e6-9cc8-b1e42a151657}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.CScene">
+      <UniqueIdentifier>{d9576936-cdfd-49aa-b20c-6a9a3450b1d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.CScene\CField">
+      <UniqueIdentifier>{e05995fe-2511-43c5-ba90-1f3d16ad20fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.CScene\CDungeon">
+      <UniqueIdentifier>{c44ad7cd-8197-450f-810c-7188d9d659b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.CScene\CShop">
+      <UniqueIdentifier>{c72ca2ca-f3b6-41d4-9aef-d83000fb6a9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\02.CItem">
+      <UniqueIdentifier>{a482bdbf-c524-48a0-ab1c-ece4330a4361}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.CScene\MainGame">
+      <UniqueIdentifier>{1e43bd06-84c3-49c1-9666-ddac3072c1e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Manager">
+      <UniqueIdentifier>{99bb83b4-96c4-4893-869b-69a28ea46db9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CMainGame.cpp">
+      <Filter>01.CObj\01.CScene\MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="CObj.cpp">
+      <Filter>01.CObj</Filter>
+    </ClCompile>
+    <ClCompile Include="CCharacter.cpp">
+      <Filter>01.CObj\00.CCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>01.CObj\00.CCharacter\CPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CField.cpp">
+      <Filter>01.CObj\01.CScene\CField</Filter>
+    </ClCompile>
+    <ClCompile Include="CDungeon.cpp">
+      <Filter>01.CObj\01.CScene\CDungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>01.CObj\00.CCharacter\CMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="CScene.cpp">
+      <Filter>01.CObj\01.CScene</Filter>
+    </ClCompile>
+    <ClCompile Include="CShop.cpp">
+      <Filter>01.CObj\01.CScene\CShop</Filter>
+    </ClCompile>
+    <ClCompile Include="CItem.cpp">
+      <Filter>01.CObj\02.CItem</Filter>
+    </ClCompile>
+    <ClCompile Include="CSaveManager.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CMainGame.h">
+      <Filter>01.CObj\01.CScene\MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="CObj.h">
+      <Filter>01.CObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CCharacter.h">
+      <Filter>01.CObj\00.CCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>01.CObj\00.CCharacter\CPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CField.h">
+      <Filter>01.CObj\01.CScene\CField</Filter>
+    </ClInclude>
+    <ClInclude Include="CDungeon.h">
+      <Filter>01.CObj\01.CScene\CDungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>01.CObj\00.CCharacter\CMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="CScene.h">
+      <Filter>01.CObj\01.CScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CShop.h">
+      <Filter>01.CObj\01.CScene\CShop</Filter>
+    </ClInclude>
+    <ClInclude Include="CItem.h">
+      <Filter>01.CObj\02.CItem</Filter>
+    </ClInclude>
+    <ClInclude Include="CSaveManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

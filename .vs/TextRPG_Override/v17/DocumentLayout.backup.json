@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CShop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CShop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CMainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CMainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CObj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CObj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CSaveManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CSaveManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CDungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CDungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CDungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CDungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CShop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CShop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CSaveManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CSaveManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\CField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F4B5299-A4FB-4D3C-BBE4-6D137D1E4484}|TextRPG_Override\\TextRPG_Override.vcxproj|solutionrelative:TextRPG_Override\\Enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 543,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMainGame.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMainGame.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CMainGame.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMainGame.h",
+              "RelativeToolTip": "TextRPG_Override\\CMainGame.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T07:50:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CScene.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CScene.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CScene.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CScene.h",
+              "RelativeToolTip": "TextRPG_Override\\CScene.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T10:51:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CShop.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CShop.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CShop.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CShop.h",
+              "RelativeToolTip": "TextRPG_Override\\CShop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:51:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Struct.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Struct.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\Struct.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Struct.h",
+              "RelativeToolTip": "TextRPG_Override\\Struct.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T07:55:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CCharacter.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CCharacter.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CCharacter.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CCharacter.h",
+              "RelativeToolTip": "TextRPG_Override\\CCharacter.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T07:55:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CCharacter.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CCharacter.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CCharacter.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CCharacter.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CCharacter.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:55:22.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CObj.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CObj.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CObj.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CObj.h",
+              "RelativeToolTip": "TextRPG_Override\\CObj.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T07:50:29.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CSaveManager.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CSaveManager.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CSaveManager.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CSaveManager.h",
+              "RelativeToolTip": "TextRPG_Override\\CSaveManager.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T12:19:13.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CField.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CField.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CField.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CField.h",
+              "RelativeToolTip": "TextRPG_Override\\CField.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:20:49.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "pch.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\pch.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\pch.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\pch.h",
+              "RelativeToolTip": "TextRPG_Override\\pch.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T07:44:58.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\pch.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\pch.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\pch.cpp",
+              "RelativeToolTip": "TextRPG_Override\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:45:05.176Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 615,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CItem.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CItem.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CItem.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CItem.h",
+              "RelativeToolTip": "TextRPG_Override\\CItem.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:56:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPlayer.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CPlayer.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CPlayer.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CPlayer.h",
+              "RelativeToolTip": "TextRPG_Override\\CPlayer.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:05:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMonster.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMonster.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CMonster.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMonster.h",
+              "RelativeToolTip": "TextRPG_Override\\CMonster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:09:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMainGame.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMainGame.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CMainGame.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMainGame.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CMainGame.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:23:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CSaveManager.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CSaveManager.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CSaveManager.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CSaveManager.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CSaveManager.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T12:20:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CItem.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CItem.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CItem.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CItem.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CItem.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:58:10.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CField.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CField.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CField.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CField.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CField.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:22:03.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CShop.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CShop.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CShop.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CShop.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CShop.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:51:02.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CDungeon.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CDungeon.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CDungeon.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CDungeon.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CDungeon.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:23:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CDungeon.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CDungeon.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CDungeon.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CDungeon.h",
+              "RelativeToolTip": "TextRPG_Override\\CDungeon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:22:38.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CPlayer.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CPlayer.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CPlayer.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CPlayer.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:06:33.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Define.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Define.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\Define.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Define.h",
+              "RelativeToolTip": "TextRPG_Override\\Define.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T14:55:11.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CMonster.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMonster.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\CMonster.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\CMonster.cpp",
+              "RelativeToolTip": "TextRPG_Override\\CMonster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:10:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\main.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Override\\main.cpp",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\main.cpp",
+              "RelativeToolTip": "TextRPG_Override\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:44:35.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enum.h",
+              "DocumentMoniker": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Enum.h",
+              "RelativeDocumentMoniker": "TextRPG_Override\\Enum.h",
+              "ToolTip": "E:\\2025\uC96C\uC2E0\uC218\uC5C5\\00.Practice\\2Month\\TextRPG_Override\\TextRPG_Override\\Enum.h",
+              "RelativeToolTip": "TextRPG_Override\\Enum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T08:33:31.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
